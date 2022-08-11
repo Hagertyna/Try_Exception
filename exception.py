@@ -1,3 +1,4 @@
+#Try and exception
 try:
     """
     The code which can give rise to an exception is written here
