@@ -7,7 +7,7 @@ try:
     b= int(a)
     print("I am executing")
     print("b =",b)
-#except block
+# except block
 except:
     print("Exception caught")
 
