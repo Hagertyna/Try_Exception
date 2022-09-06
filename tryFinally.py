@@ -2,6 +2,7 @@
 try:
     print("I am try block")
     raise TypeError
+    
 except:
     print("I am except block")
 finally:
