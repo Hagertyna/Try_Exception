@@ -1,6 +1,5 @@
 #catching specific exception
 from tkinter import Y
-
 try:
     a = int(input("Please enter the first number..."))
     b = int(input("The second number please"))
