@@ -1,4 +1,5 @@
 # Raising exception
+
 try:
     raise TypeError
 except TypeError:
